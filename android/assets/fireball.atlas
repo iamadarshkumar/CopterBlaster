@@ -1,0 +1,72 @@
+
+fireball.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball1
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+fireball2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball2
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+fireball3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball3
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+fireball4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball4
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+fireball5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball5
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+fireball6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireball6
+  rotate: false
+  xy: 1, 1
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
