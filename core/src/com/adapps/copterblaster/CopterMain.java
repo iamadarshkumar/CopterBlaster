@@ -1,3 +1,4 @@
+//Main class that renders the screen
 package com.adapps.copterblaster;
 
 import com.adapps.copterblaster.States.GameStateManager;
@@ -27,8 +28,5 @@ public class CopterMain extends ApplicationAdapter {
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
         gameStateManager.update(Gdx.graphics.getDeltaTime());
         gameStateManager.render(batch);
-		//batch.begin();
-		//batch.draw(img, 0, 0);
-		//batch.end();
 	}
 }

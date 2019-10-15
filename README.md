@@ -1,11 +1,13 @@
 # CopterBlaster
-An android game prototype using libGdx framework.
+<b>An android game prototype using libGdx framework.</b>
 
 A prototype for an endless finger-tapping copter game. The main objective of the game is to cross the obstacles(yet to be added) on the way.
 The development is currently under progress.<br><br>
 <b>Tool(s) used:</b>
 <ul>
 <li><a href="https://github.com/libGDX/libGDX">libgdx</a></li><br>
+<br>
+<b>Screenshots:</b>
 
 ![Alt text](http://i.imgur.com/9oVuwPA.jpg "Start Screen")
 ![Alt text](http://i.imgur.com/pT6jbK7.jpg "Screenshot1")
